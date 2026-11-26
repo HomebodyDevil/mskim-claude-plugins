@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: knowledge-astar-vs-jps
+expected_outcome: |
+  A*와 JPS의 동작 차이, JPS가 유리/불리한 조건(균일 비용 그리드 등)을 출처와 함께 설명한다.

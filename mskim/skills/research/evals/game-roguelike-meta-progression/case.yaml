@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: game-roguelike-meta-progression
+expected_outcome: |
+  여러 실제 게임의 메타 성장 사례를 출처와 함께 비교하고, 덱빌딩 로그라이크에 적용·개선 방안을 제안한다.
