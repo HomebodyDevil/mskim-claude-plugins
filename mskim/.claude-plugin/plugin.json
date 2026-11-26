@@ -1,6 +1,6 @@
 {
   "name": "mskim",
-  "version": "0.21.0",
+  "version": "0.22.0",
   "description": "mskim 개인 스킬 모음 (/mskim:<skill>)",
   "author": { "name": "HomebodyDevil" },
   "repository": "https://github.com/HomebodyDevil/mskim-claude-plugins"
